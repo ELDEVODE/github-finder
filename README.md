@@ -7,4 +7,4 @@ https://user-images.githubusercontent.com/88858519/165082029-d7cc09bf-8d99-4911-
 
 ---
 
-. It was built using react, github's api, axios and tailwind css.
+. It was built using react, github's api and axios. It was styled with Tailwind css and Daisy UI component library.
